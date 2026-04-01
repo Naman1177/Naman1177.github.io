@@ -1,0 +1,45 @@
+body {background: #1A1A2E;
+}
+#gg{
+    border-radius: 50%;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    
+}
+#gg:hover{
+    border-color: #E0F2F1;
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
+   
+}
+   
+h1{
+    color: #00D4FF;
+    text-align: center;
+    font-family: "Pinyon Script", cursive;
+    font-size: 270px;
+    margin-top: 50px;
+    text-shadow: #00a2ff 4px 4px 8px;
+}
+p{
+    color: #00D4FF;
+    
+}
+h2{
+    color: #00D4FF;
+    
+}
+a{
+    color: #00D4FF;
+    
+}
+td{
+    color: #00D4FF;
+    
+}
+ul{
+    color: #00D4FF;
+    
+}
